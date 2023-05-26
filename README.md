@@ -1,2 +1,2 @@
 # cuda-csg-raycasting
-CSG tree raycasting program with CUDA rendering
+CSG tree raycasting program on CUDA
